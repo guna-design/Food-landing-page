@@ -1,0 +1,55 @@
+
+.navbar-brand{
+    font-family: Qwigley;
+font-size: 80px !important;
+margin-left: 10%;
+line-height: 96px;
+color: #FFB30E !important;
+
+
+
+
+}
+.yellowRectangle{
+background: #FDBE35;
+}
+.fav-meal{
+    font-family: Qwigley;
+font-size: 88px;
+font-weight: 400;
+line-height: 258px;
+padding-inline: 180px;
+color: #FFFFFF;
+box-shadow: 0px 27px 82px 0px #FFAE0047;
+
+box-shadow: 0px 14px 15px 0px #FFAE0003;
+
+
+
+}
+.innerwhite{
+    position: relative;
+    left:100px
+}
+.navbar1{
+    
+    display: flex;
+    flex-wrap: wrap;
+    width: 700px;
+    height: Hug (86px);
+    top: 400px;
+    left: 180px;
+    padding: 24px;
+    gap: 8px;
+
+}
+.navbar2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 700px;
+    height: Hug (86px);
+    top: 400px;
+    left: 180px;
+    padding: 24px;
+    gap: 8px;
+}
